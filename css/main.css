@@ -176,7 +176,7 @@ body:before {
     transform: rotate3d(0, 1, 0, 360deg);
 }
 
-.social span {
+.social i {
     font-size: 20px;
     line-height: 40px;
 }
